@@ -2,7 +2,7 @@
 
 
 Starting from a wikipedia page and finding a path only with the links inside the pages to a specific target page.
-The search uses **recursive breadth-first search.**
+The search uses **recursive breadth-first search algorithm.**
 
 ## Installation
 
